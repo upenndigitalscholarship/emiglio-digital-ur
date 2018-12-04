@@ -1,0 +1,17 @@
+{
+
+  "Mapbox (Neatlight)": [
+
+    {
+      "title": "Graves Studied by Class",
+      "id": "Mapbox.sashafr.cjp4elmsk3x1f2rr1xqb1ugfv",
+      "type": "XYZ",
+      "properties": {
+        "urls": [
+          "https://api.mapbox.com/styles/v1/sashafr/cjp4elmsk3x1f2rr1xqb1ugfv/tiles/256/{z}/{x}/{y}"
+        ]
+      }
+    }
+  ]
+
+}
